@@ -1,0 +1,70 @@
+# Build directories
+build*/
+cmake-build-*/
+out/
+bin/
+lib/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+install_manifest.txt
+
+# Qt Creator / IDE user files
+*.pro.user
+*.pro.user.*
+*.pri.user
+*.qbs.user
+*.creator.user
+*.creator.user.*
+*.files
+*.includes
+*.config
+*.autosave
+*.user
+*.user.*
+
+# Qt generated moc/uic/rcc artifacts
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# Object and library artifacts
+*.obj
+*.o
+*.lo
+*.la
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+
+# Debug symbols and profiling
+*.pdb
+*.ilk
+*.idb
+*.gcda
+*.gcno
+*.prof
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (keep workspace portable)
+.vscode/
